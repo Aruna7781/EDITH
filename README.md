@@ -3,4 +3,4 @@ To create this chatbot, we used the GPT-2 large language model from the OpenAI c
 GPT-2 large is particularly versatile and can be fine-tuned for specific tasks, making it adaptable for numerous applications such as creating conversational chatbots, generating content for blogs and social media, aiding in creative writing, generating code snippets, and serving as an educational tool for tutoring and answering questions. For this project, we have used Parameter-Efficient Fine-Tuning (PEFT) techniques.
 The dataset used for this project is the “HazSylvia/Fitness_Unformatted” dataset, which consists of 967 queries related to fitness and related questions.
 In this repository, we have used the "openai-community/gpt2-large" model to create a large language model (LLM) chatbot.**_
-![edith](https://github.com/user-attachments/assets/d8983b6f-7669-4b88-a90b-3f65402171a0)
+
