@@ -4,9 +4,7 @@ GPT-2 large is particularly versatile and can be fine-tuned for specific tasks, 
 The dataset used for this project is the “HazSylvia/Fitness_Unformatted” dataset, which consists of 967 queries related to fitness and related questions.
 In this repository, we have used the "openai-community/gpt2-large" model to create a large language model (LLM) chatbot.**_
 ![edith 3](https://github.com/user-attachments/assets/2b0339da-9cf6-44ff-996c-fb5118a36aa4)
-
-![edith 2 ](https://github.com/user-attachments/assets/9ddb1c28-0a0e-4f58-bff3-0ad4af76f02a)
 _**After click the link it will redirect to Tunnel ahead page in that you should enter 'Tunnel password ' which is ipv4  example password - 34.138.223.57
 Note: All this code is purely done in Google Colab**_
-![edith](https://github.com/user-attachments/assets/91b820c4-aafd-440b-9dcb-db1423f39a41)
+
 
